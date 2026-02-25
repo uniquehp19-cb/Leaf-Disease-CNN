@@ -54,4 +54,8 @@ if input_image is not None:
 # Footer
 # ----------------------
 st.markdown("---")
+<<<<<<< HEAD
 st.caption("Demo version: Predictions are randomly generated. Replace with a trained CNN model for real results.")
+=======
+st.caption("Demo version: Predictions are randomly generated. Replace with a trained CNN model for real results.")
+>>>>>>> fcd789ecf3be20b164faa3853137e674cf9eca9c
